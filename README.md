@@ -1,4 +1,4 @@
-Olá, meu nome é joao victor e tenho 22 anos. Atualmente, estou cursando Sistemas de Informação na PUC Minas, onde tenho adquirido um sólido conhecimento em desenvolvimento de software, banco de dados e tecnologias emergentes.
+Olá, meu nome é joao victor e tenho 24 anos. Atualmente, estou cursando Sistemas de Informação na PUC Minas, onde tenho adquirido um sólido conhecimento em desenvolvimento de software, banco de dados e tecnologias emergentes.
 
 Além dos meus estudos, trabalho como instrutor de programação e robótica, onde ensino conceitos de programação. Essa experiência me permitiu aprimorar minhas habilidades de comunicação e mentoria, além de me manter atualizado com as últimas tendências tecnológicas.
 
